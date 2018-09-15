@@ -14,13 +14,6 @@ public class GitTest {
         System.out.println("Git Test 类");   System.out.println("Git Test 类");
         System.out.println("Git Test 类");
         System.out.println("Git Test 类");   System.out.println("Git Test 类");
-        System.out.println("Git Test 类");
-        System.out.println("Git Test 类");   System.out.println("Git Test 类");
-        System.out.println("Git Test 类");
-        System.out.println("Git Test 类");   System.out.println("Git Test 类");
-        System.out.println("Git Test 类");
-        System.out.println("Git Test 类");   System.out.println("Git Test 类");
-        System.out.println("Git Test 类");
-        System.out.println("Git Test 类");
+
     }
 }
