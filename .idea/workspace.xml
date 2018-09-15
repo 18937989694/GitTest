@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ca6e650-48f3-4f9f-8bcf-aec4ae62af8c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GitTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,14 +25,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="27" />
-          <entry key="txt" value="15" />
+          <entry key="txt" value="16" />
           <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="27" />
-          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="PLAIN_TEXT" value="16" />
           <entry key="XML" value="3" />
         </counts>
       </usages-collector>
@@ -57,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/GitTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="380">
+              <caret line="20" column="77" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
             </state>
           </provider>
         </entry>
@@ -163,15 +161,15 @@
     <property name="ChangesTree.GroupingKeys" value="module" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537011465633" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537011903960" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="F:/GitRepLocal" />
+    <property name="last_opened_file_path" value="F:/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -199,7 +197,7 @@
       <workItem from="1537006546640" duration="165000" />
       <workItem from="1537006744075" duration="2293000" />
       <workItem from="1537009410632" duration="2059000" />
-      <workItem from="1537011540160" duration="136000" />
+      <workItem from="1537011540160" duration="333000" />
     </task>
     <task id="LOCAL-00001" summary="第一版0.0.1">
       <created>1537009444256</created>
@@ -250,14 +248,22 @@
       <option name="project" value="LOCAL" />
       <updated>1537010767810</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="第一版0.0.1">
+      <created>1537011757714</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1537011757714</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6809000" />
+    <option name="totallyTimeSpent" value="7006000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="556" y="4" width="1029" height="946" extended-state="0" />
+    <frame x="461" y="117" width="1249" height="946" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
@@ -265,7 +271,7 @@
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.25593394" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.20857863" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -276,7 +282,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49936947" weight="0.32635468" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006305" side_tool="true" weight="0.32888147" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32888147" />
+      <window_info anchor="bottom" id="Version Control" order="10" visible="true" weight="0.32881773" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -334,9 +340,9 @@
     <ignored-roots>
       <path value="F:/GitRep" />
     </ignored-roots>
-    <MESSAGE value="第一版0.0.1" />
     <MESSAGE value="第一版0.0.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一版0.0.2" />
+    <MESSAGE value="第一版0.0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一版0.0.1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/.gitignore" />
@@ -350,8 +356,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/GitTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="380">
+          <caret line="20" column="77" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
         </state>
       </provider>
     </entry>
