@@ -113,8 +113,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="461" />
-    <option name="y" value="117" />
+    <option name="x" value="476" />
+    <option name="y" value="64" />
     <option name="width" value="1249" />
     <option name="height" value="946" />
   </component>
@@ -162,7 +162,7 @@
     <property name="ChangesTree.GroupingKeys" value="module" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537012083010" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537012120768" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="F:/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
